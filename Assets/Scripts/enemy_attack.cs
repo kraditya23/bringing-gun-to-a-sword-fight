@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class enemy_attack : MonoBehaviour
 {
-    public float damage = 20;
+    public float damage = 25;
 
     public LayerMask attackmask;
     public Transform attackpoint;
